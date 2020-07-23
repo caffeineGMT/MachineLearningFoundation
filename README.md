@@ -1,3 +1,3 @@
 # MachineLearningFoundation
 
-This is a repo recording the assignments from coursera course "Machine Learning Foundation"
+This is a repo recording the assignments from Coursera course "Machine Learning Foundation"
